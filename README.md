@@ -15,7 +15,13 @@ No .config:
 
 ## Alunos
 Riquelmi Neves
+
 Grazielle Cristina
+
 Luiza Oliveira
+
 Sofia Fernandes
+
 Wata Monteiro
+
+Jeshua Hung
